@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="in.juspay.hypersdkreact" >
+
+    <uses-sdk android:minSdkVersion="21" />
+
+    <application>
+        <activity
+            android:name="in.juspay.hypersdkreact.ProcessActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
+            android:exported="false"
+            android:label="Juspay Payment Page Activity"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.AppCompat.Juspay.Translucent"
+            android:windowSoftInputMode="adjustResize" />
+    </application>
+
+</manifest>

@@ -1,0 +1,28 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="in.juspay.hypersdkreact" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->/Users/harimohan/cdc/cdc-fantasy-app/node_modules/hyper-sdk-react/android/src/main/AndroidManifest.xml
+6
+7    <application>
+7-->/Users/harimohan/cdc/cdc-fantasy-app/node_modules/hyper-sdk-react/android/src/main/AndroidManifest.xml:5:5-14:19
+8        <activity
+8-->/Users/harimohan/cdc/cdc-fantasy-app/node_modules/hyper-sdk-react/android/src/main/AndroidManifest.xml:6:9-13:58
+9            android:name="in.juspay.hypersdkreact.ProcessActivity"
+9-->/Users/harimohan/cdc/cdc-fantasy-app/node_modules/hyper-sdk-react/android/src/main/AndroidManifest.xml:7:13-44
+10            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
+10-->/Users/harimohan/cdc/cdc-fantasy-app/node_modules/hyper-sdk-react/android/src/main/AndroidManifest.xml:8:13-129
+11            android:exported="false"
+11-->/Users/harimohan/cdc/cdc-fantasy-app/node_modules/hyper-sdk-react/android/src/main/AndroidManifest.xml:9:13-37
+12            android:label="Juspay Payment Page Activity"
+12-->/Users/harimohan/cdc/cdc-fantasy-app/node_modules/hyper-sdk-react/android/src/main/AndroidManifest.xml:10:13-57
+13            android:launchMode="singleTop"
+13-->/Users/harimohan/cdc/cdc-fantasy-app/node_modules/hyper-sdk-react/android/src/main/AndroidManifest.xml:11:13-43
+14            android:theme="@style/Theme.AppCompat.Juspay.Translucent"
+14-->/Users/harimohan/cdc/cdc-fantasy-app/node_modules/hyper-sdk-react/android/src/main/AndroidManifest.xml:12:13-70
+15            android:windowSoftInputMode="adjustResize" />
+15-->/Users/harimohan/cdc/cdc-fantasy-app/node_modules/hyper-sdk-react/android/src/main/AndroidManifest.xml:13:13-55
+16    </application>
+17
+18</manifest>
