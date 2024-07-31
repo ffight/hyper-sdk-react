@@ -121,5 +121,4 @@ dependencies {
 hyperSdkPlugin {
     clientId = getClientId(rootProject)
     sdkVersion = getHyperSDKVersion(rootProject)
-//    excludedMicroSDKs = getExcludedMicroSdks(rootProject)
 }
